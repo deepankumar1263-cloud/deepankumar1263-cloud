@@ -48,3 +48,7 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+
+<p align="left">Interested in:<br>                     Statistical Analysis, Machine Learning, and Artificial Intelligence</p>
+
+###
