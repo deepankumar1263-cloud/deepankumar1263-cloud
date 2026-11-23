@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My name is Deepankumar K, and I'm a Data Analyst with hands-on experience. I am a fresher  in the Data Science field.<br><br>Welcome to my github profile!</h2>
+<h2 align="left">Hello 👋! My name is Deepankumar K, and I'm a AI Engineer with hands-on experience. I am a fresher  in the Artificial Intelligence field.<br><br>Welcome to my github profile!</h2>
 
 ###
 
