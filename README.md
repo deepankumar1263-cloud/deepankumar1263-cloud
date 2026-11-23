@@ -49,6 +49,6 @@
 
 ###
 
-<p align="left">Interested in:<br>                     Statistical Analysis, Machine Learning, and Artificial Intelligence</p>
+<p align="left">Interested in:<br>                     Artificial Intelligence, Generative AI, Machine Learning, Deep Learning, Statistics, Mathematics.</p>
 
 ###
